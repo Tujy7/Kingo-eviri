@@ -104,10 +104,10 @@ window.YAMALAR = [
   "id": "fe-three-houses",
   "ad": "Fire Emblem: Three Houses",
   "platform": "Switch",
-  "durum": "wip",
-  "ilerleme": 99,
+  "durum": "ok",
+  "ilerleme": 100,
   "surum": "1.2.0",
-  "ozet": "Sıradaki büyük proje.",
+  "ozet": "",
   "detay": "",
   "icerik": [
    "Hikaye",
